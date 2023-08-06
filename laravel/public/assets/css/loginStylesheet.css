@@ -1,0 +1,68 @@
+@import url('https://fonts.cdnfonts.com/css/libre-barcode-128');
+@import url('https://fonts.cdnfonts.com/css/press-start');
+                
+
+/* font-family: 'Libre Barcode 128', sans-serif; */
+
+/* *{
+    background-color: #012340 !important;
+} */
+
+
+.navbar-nav, .nav-link, .collapse{
+    background-color: #021B30 !important;
+}
+
+nav{
+    font-family: 'Press Start', sans-serif;
+    background-color: #021B30 !important;
+}
+
+nav a {
+    color: #04D939 !important;
+}
+
+.body {
+    background-color: #012340;
+    font-family: 'Press Start', sans-serif;
+    color: #04D939 !important;
+}
+
+.body h2{
+    line-height: 3;
+}
+
+.login{
+    background-color: #02345F !important;
+    width: 80% !important;
+}
+
+hr{
+    border-color: #04D939;
+    border: solid 0.5px;
+}
+
+.login-info{
+    margin-left: 100px;
+}
+
+input{
+    margin-left: 3rem;
+    width: 70%;
+    height: 4rem;
+    /* border-radius: 50%; */
+}
+
+.footer-upper{
+    font-family: 'Press Start', sans-serif;
+    background-color: #012340;
+    color: aliceblue;
+}
+
+.navbar-brand{
+    font-family: 'Libre Barcode 128', sans-serif;
+}
+
+.footer{
+    background-color: #012340 !important;
+}
